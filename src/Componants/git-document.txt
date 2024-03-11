@@ -1,0 +1,12 @@
+to check git user configur list
+git config --system --list
+
+to set git user name (use git Hub user Name)
+git config --global user.name "mahesh-girukala"
+
+to set git user email (use git Hub mail id)
+git config --global user.name "mahesh0511@gmail.com"
+
+
+to check git user global level configure
+git config --global --list
